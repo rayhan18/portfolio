@@ -1,0 +1,32 @@
+a:hover{border-bottom:2px solid green;}
+/*
+  .mt-4, .my-4 {
+    margin-top: -20.5rem!important;
+}
+*/
+.bg-info {
+    background-color: #b878172e!important;
+}
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem!important;
+    padding: 10px;
+}
+
+.best-place h2{margin-top:150px;color:green;}
+
+
+.btn{
+padding: 0.375rem 2.75rem;
+font-size: 2rem;
+margin-left: auto;
+    margin-top: 150px;}
+	
+button, select {
+text-transform: uppercase;}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    color: wheat;
+}
+.mt-n5, .my-n5 {
+    margin-top: -4rem!important;
+}
